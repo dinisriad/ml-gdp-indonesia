@@ -1,0 +1,22 @@
+{
+  "Linear Regression": {
+    "MAE": 0.8004,
+    "RMSE": 0.9182,
+    "R2": 0.863
+  },
+  "Ridge Regression": {
+    "MAE": 0.7418,
+    "RMSE": 0.8529,
+    "R2": 0.8818
+  },
+  "Decision Tree": {
+    "MAE": 1.3771,
+    "RMSE": 2.8293,
+    "R2": -0.3007
+  },
+  "Random Forest": {
+    "MAE": 0.9,
+    "RMSE": 1.8664,
+    "R2": 0.434
+  }
+}
